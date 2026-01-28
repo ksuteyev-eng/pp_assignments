@@ -1,20 +1,19 @@
 # Practice 1: Python Basics
 
-Этот репозиторий содержит материалы по изучению основ программирования на Python.
+This repository contains materials for studying the fundamentals of Python programming.
 
-## Структура репозитория
-* **Practice1/** — Основная директория практики.
-    * **python-basics/** — Файлы с кодом (hello_world.py, variables.py и др.).
-    * **README.md** — Описание проекта и пройденных тем.
+## Repository Structure
+* **Practice1/** — Main practice directory.
+    * **python-basics/** — Python scripts (hello_world.py, variables.py, etc.).
+    * **README.md** — Description of the project and covered topics.
 
-## Изученные темы (Topics to Cover):
-
-1.  **HOME** — Настройка рабочего пространства.
-2.  **Getting Started** — Установка Python и запуск первой программы.
-3.  **Syntax** — Синтаксис языка, использование отступов.
-4.  **Comments** — Работа с комментариями в коде (`#` или `'''`).
-5.  **Variables** — Объявление и использование переменных.
-6.  **Data Types** — Основные типы данных (str, int, float, list, etc.).
-7.  **Numbers** — Работа с целыми числами и числами с плавающей точкой.
-8.  **Casting** — Приведение типов (например, `int()`, `float()`, `str()`).
-9.  **Strings** — Строковые методы и форматирование.
+## Topics to Cover:
+* **HOME** — Environment setup and workspace configuration.
+* **Getting Started** — Installation and running your first script.
+* **Syntax** — Coding rules, indentation, and structure.
+* **Comments** — Using single-line (`#`) and multi-line comments.
+* **Variables** — Creating and naming variables.
+* **Data Types** — Understanding string, integer, float, and boolean types.
+* **Numbers** — Working with numeric values and operations.
+* **Casting** — Type conversion (e.g., using `int()`, `float()`, `str()`).
+* **Strings** — String manipulation and methods.
