@@ -1,8 +1,5 @@
-a = 33
-b = 33
-if b > a:
-    print("b is greater than a")
-elif a == b:
-    print("a and b are equal")
+x = 10
+if x > 5:
+    print("Число больше 5")
 else:
-    print("a is greater than b")
+    print("Число меньше или равно 5")
