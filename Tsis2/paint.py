@@ -1,5 +1,6 @@
 import pygame
 from datetime import datetime
+from tools import flood_fill
 
 # 1. Инициализация Pygame
 pygame.init()
